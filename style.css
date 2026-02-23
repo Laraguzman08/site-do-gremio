@@ -1,3 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 100%);
+}
+
+
 #escudo{
     width: 100px;
     height: 100px;
@@ -20,4 +27,12 @@
     text-align: center;
     justify-content: space-around;
     padding: 6px;
+}
+.noticia {
+    background-color: lab(91.29% -0.61 39);
+    color:rgb(0, 0, 0);
+    border: 3px solid black;
+}
+.img_noticia {
+    width: 400px;
 }
