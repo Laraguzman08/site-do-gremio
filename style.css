@@ -38,3 +38,12 @@ body{
 .img_noticia {
     width: 400px;
 }
+
+#jogadores {
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 12px;
+    background-color: aliceblue;
+
+}
