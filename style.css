@@ -45,5 +45,5 @@ body{
     justify-content: space-around;
     padding: 12px;
     background-color: aliceblue;
-
+    flex-wrap: wrap;
 }
